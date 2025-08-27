@@ -1,4 +1,6 @@
-This code is a two-step PDF parser and classifier for insurance regulatory filings. Here’s what it does:
+This code is a two-step PDF parser and classifier for insurance regulatory filings. Please use the "PDF_Parser.ipynb" file, the others are tests.
+
+Here’s what it does:
 
 Extracts Text from PDF:
 
